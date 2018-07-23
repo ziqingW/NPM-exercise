@@ -1,2 +1,2 @@
 # NPM-exercise
-DC exercise for NPM
+Exercises for npm and Node.js from the DigitalCrafts class.
